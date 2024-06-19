@@ -1,4 +1,4 @@
-# MSc Dissertation - Michael Lawrence Ayodele
+# MSc Dissertation - University of Sunderland
 
 ## Project Title
 The Impact of Cyber Attacks on Cloud Security and Data Privacy (A Practical Analysis)
@@ -16,15 +16,15 @@ This dissertation aims to conduct a comprehensive analysis of major privacy and 
 - **Recommendations**: Provide actionable recommendations for organizations.
 
 ### Schedule and Deliverables
-- **D1.1 Annotated Bibliography**: 14/06/2024
-- **D1.2 Literature Review Draft**: 17/06/2024
-- **D2.1 Methodology Section Draft**: 26/06/2024
-- **D3.1 Attack Taxonomy**: 04/07/2024
-- **D3.2 Threat Actor Profiles**: 10/07/2024
-- **D3.3 Impact Analysis**: 16/07/2024
-- **D3.4 Defense Evaluation**: 22/07/2024
-- **D4.1 Complete Draft**: 29/07/2024
-- **D4.2 Final Thesis**: 29/07/2024
+- **D1.1 Annotated Bibliography**
+- **D1.2 Literature Review Draft**
+- **D2.1 Methodology Section Draft**
+- **D3.1 Attack Taxonomy**
+- **D3.2 Threat Actor Profiles**
+- **D3.3 Impact Analysis**
+- **D3.4 Defense Evaluation**
+- **D4.1 Complete Draft**
+- **D4.2 Final Thesis**
 
 ## AWS Attack Demonstration
 
@@ -54,6 +54,7 @@ To demonstrate a practical attack on AWS infrastructure, highlighting vulnerabil
    - Enable logging and monitoring to detect suspicious activities.
    - Regularly update and patch instances to fix vulnerabilities.
 
+
 ### Tools Used
 - **Nmap**: For network scanning and reconnaissance.
 - **Metasploit**: For exploitation of vulnerabilities.
@@ -70,8 +71,3 @@ To demonstrate a practical attack on AWS infrastructure, highlighting vulnerabil
 
 ## Conclusion
 The practical AWS attack demonstration provided insights into the vulnerabilities within cloud environments and emphasized the need for robust security measures. The overall project aims to offer comprehensive recommendations for enhancing cloud security and protecting data privacy.
-
-## Contact Information
-For any queries or further information, please contact:
-- **Name**: Michael Lawrence Ayodele
-- **Email**: michael.ayodele@example.com
